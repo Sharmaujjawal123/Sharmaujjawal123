@@ -25,8 +25,8 @@
 - 📄 Know about my experiences [not](not)
 
 - ⚡ Fun fact **not**
-
-<h3 align="left">Connect with me:</h3>
+<br><br>
+<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=40&duration=2500&pause=1200&right=true&vCenter=true&width=1080&height=50&color=f75c7e&lines=Connect+With+Me+" alt="Typing SVG" /></a> </p></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharma-ujjawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharma-ujjawal/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjbajxhuvmr53h2hqeimola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjbajxhuvmr53h2hqeimola" height="30" width="40" /></a>
