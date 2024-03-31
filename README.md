@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaujjawal123&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaujjawal123" /> </p>
 
+<p><h1 align="right"> <strong>🏆 T R O P H I E S</strong></h1>
+<br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaujjawal123" alt="sharmaujjawal123" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [not](not)
