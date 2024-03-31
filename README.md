@@ -10,7 +10,7 @@
 
 
 <p><h1> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p></h1></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&right=true&vCenter=true&width=1080&height=50&color=f75c7e&lines=T+R+O+P+H+I+E+S+" alt="Typing SVG" /></a> </p></h1></p>
 <br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaujjawal123" alt="sharmaujjawal123" /></a> </p>
 <br><br>
@@ -40,7 +40,7 @@
 <br><br><br>
 <h1>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&right=true&width=1080&height=50&color=f75c7e&lines=S+T+A+T+S+" alt="Typing SVG" /></a> </p>
 </h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaujjawal123&show_icons=true&locale=en&layout=compact" alt="sharmaujjawal123" /></p>
 
