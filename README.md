@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 />, I'm Ujjawal Sharma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+![Ujjawal Sharma](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
 
 
 
