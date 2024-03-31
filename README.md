@@ -1,5 +1,5 @@
 <h1 align="center"Hi <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=0000FF&lines=Hi!%2C+I'm+Ujjawal+sharma;I'm+a+Developer;Open+Source+Contributer+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=2500&pause=800&center=true&vCenter=true&width=1080&height=100&color=0000FF&lines=Hi!%2C+I'm+Ujjawal+sharma;I'm+a+Developer;Open+Source+Contributer+" alt="Typing SVG" /></a> </p>
 
 
 <!-- ![Ujjawal Sharma](https://github.com/divyansh956/divyansh956/blob/main/img/github.png) -->
