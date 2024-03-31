@@ -48,3 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaujjawal123&" alt="sharmaujjawal123" /></p>
 
+![snake gif](https://github.com/YOUR_USERNAME/Sharmaujjawal123/blob/output/github-contribution-grid-snake.gif)
