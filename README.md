@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Sharma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaujjawal123&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaujjawal123" /> </p>
 
