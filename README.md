@@ -13,6 +13,11 @@
 <br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaujjawal123" alt="sharmaujjawal123" /></a> </p>
 
+<p ><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>
+<br>
+<img src="https://github.com/divyansh956/divyansh956/blob/main/img/github.png?raw=true" alt="" width=100%>
+<br><br><br>
+
 - 👨‍💻 All of my projects are available at [not](not)
 
 - 📫 How to reach me **ujjwalsharma7734@gmail.com**
