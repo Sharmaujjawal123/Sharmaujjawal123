@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 />, I'm Ujjawal Sharma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-![Ujjawal Sharma](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
-
+<!-- ![Ujjawal Sharma](https://github.com/divyansh956/divyansh956/blob/main/img/github.png) -->
+<img src="https://github.com/divyansh956/divyansh956/blob/main/img/github.png?raw=true" alt="" width=100%>
+<br><br><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaujjawal123&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaujjawal123" /> </p>
