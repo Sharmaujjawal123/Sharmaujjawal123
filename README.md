@@ -7,15 +7,14 @@
 <br><br><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaujjawal123&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaujjawal123" /> </p>
+
 
 <p><h1 align="right"> <strong>🏆 T R O P H I E S</strong></h1>
 <br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmaujjawal123" alt="sharmaujjawal123" /></a> </p>
 
-<p ><h1 align="right"><strong>💫 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=40&duration=3500&pause=1200&right=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=A+B+O+U+T+" alt="Typing SVG" /></a> </p></h1></strong></p>
-<br>
+<p ><h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=40&duration=3500&pause=1200&right=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=A+B+O+U+T+" alt="Typing SVG" /></a> </p></h1></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaujjawal123&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaujjawal123" /> </p>
 
 
